@@ -1,0 +1,31 @@
+Evaluating sequences...
+Global results saved in ../BMVOS/outputs/DAVIS16_val/global_results.csv
+Per-sequence results saved in ../BMVOS/outputs/DAVIS16_val/per-sequence_results.csv
+--------------------------- Global results ---------------------------
+ J&F-Mean   J-Mean  J-Recall  J-Decay   F-Mean  F-Recall  F-Decay
+ 0.822536 0.830426  0.960497 0.106297 0.814646  0.900877 0.114286
+
+---------- Per sequence results----------
+           Sequence   J-Mean   F-Mean
+         blackswan1 0.958002 0.980152
+         bmx-trees1 0.560764 0.766825
+        breakdance1 0.700889 0.619296
+             camel1 0.843708 0.876725
+    car-roundabout1 0.952970 0.902292
+        car-shadow1 0.968394 0.992463
+              cows1 0.958341 0.983563
+       dance-twirl1 0.762687 0.724182
+               dog1 0.954081 0.971658
+     drift-chicane1 0.745225 0.784944
+    drift-straight1 0.763543 0.741743
+              goat1 0.883097 0.873145
+    horsejump-high1 0.883790 0.944637
+         kite-surf1 0.660105 0.550129
+             libby1 0.874715 0.968076
+    motocross-jump1 0.871084 0.720280
+paragliding-launch1 0.642453 0.380474
+           parkour1 0.935468 0.956414
+     scooter-black1 0.802732 0.682585
+           soapbox1 0.886483 0.873331
+
+Total time:30.635788440704346
